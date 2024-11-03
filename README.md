@@ -1,4 +1,3 @@
 2D zelda style game with collision and depth features
 
-![Game Screenshot](screenshot.png)
-
+![ScreenShot](graphics/screenshot.png)
